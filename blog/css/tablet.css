@@ -1,0 +1,22 @@
+@media(max-width : 768px){
+
+    .side{
+        width: 100%;
+        margin : 48px 0px;
+    }
+    .page{
+        width: 100%;
+    }
+    .main{
+        width: 100%;
+    }
+    #imgds img{
+        width: 100%;
+      }
+
+      .ic{
+          font-size: 30px;
+          margin-top: 20px;
+          
+      }
+}
